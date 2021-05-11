@@ -1,0 +1,11 @@
+TimeStamps -> Tracker
+time_stamp_id -> trk_id
+start_time _ time_mins
+end_time - date_tracked
+
+location
+
+time_stamps -> trackers
+time_stamp -> tracker
+
+time_stamp_obj - tracker_obj
